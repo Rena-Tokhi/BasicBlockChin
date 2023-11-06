@@ -28,7 +28,7 @@ To run this project on your local machine, follow these steps:
 Download or clone this repository to your computer.
 Open the project in your favorite Java IDE.
 
-##Testing
+## Testing
 
 You can test the project in two ways:
 
