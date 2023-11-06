@@ -1,8 +1,8 @@
-#CSIS 294 Project 1 - Griffin Blockchain
+# CSIS 294 Project 1 - Griffin Blockchain
 
 This repository contains my implementation of the CSIS 294 Project 1, "Basic Griffin Blockchain." This project involves creating a Blockchain miner with various functionalities, including receiving transactions, managing a Merkle Tree, and using the Proof of Work algorithm.
 
-##Project Overview
+## Project Overview
 
 In this project, I have developed a Blockchain miner that can perform the following tasks:
 
@@ -14,7 +14,7 @@ Create Blockchain Blocks using the Proof of Work algorithm.
 I have added code to the existing code base called "BlockchainBasics," which is provided in this repository. The "BlockchainBasics" code allows running two instances of the application on different ports, enabling the exchange of transactions and mining blocks.
 
 
-##Technologies and Concepts
+## Technologies and Concepts
 
 Socket programming
 Queue
