@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="GriffinBlockChin:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/GriffinBlockChin_jar</output-path>
+    <root id="archive" name="GriffinBlockChin.jar">
+      <element id="module-output" name="GriffinBlockChin" />
+    </root>
+  </artifact>
+</component>
